@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Everything you've ever wanted to see"
-datePublished: '2016-05-03T19:21:32.548Z'
-dateModified: '2016-05-03T19:20:26.662Z'
+datePublished: '2016-05-03T19:22:32.124Z'
+dateModified: '2016-05-03T19:22:27.473Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-03-everything-youve-ever-wanted-to-see.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,12 +18,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-03-everything-youve-ever-wanted-to-see.md
-published: true
 url: everything-youve-ever-wanted-to-see/index.html
 _type: Article
 
 ---
 Everything you've ever wanted to see
-
-undefined
